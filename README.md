@@ -1,6 +1,10 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&text=Minchan%20Lee&fontSize=70&color=auto&height=150)
+
+<p>
+  <a href="mailto:shigatsu970704@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shigatsu970704@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
+### Hi there 👋
 
 <!--
 **ShigatsuEl/ShigatsuEl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
