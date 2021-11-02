@@ -21,6 +21,9 @@
   <img src="https://img.shields.io/badge/Node.js-76D04B?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/>
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
+</p>
 
 <!--
 **ShigatsuEl/ShigatsuEl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
