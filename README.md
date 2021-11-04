@@ -6,6 +6,15 @@
 
 ### Hi there 👋
 
+My name is Minchan Lee and I'm using the nickname ShigatsuEl
+
+- ✅ I like to learn new things.
+- ✅ I enjoy learning what I don't know
+- ✅ I want to touching fun and emotion to people with my projects
+- ✅ I want to be a developer who helps people
+
+I'm putting together my potfolio to become a frontend developer these days
+
 ### 💪 Tech Stack
 
 <p>Techs that i've used commonly</p>
