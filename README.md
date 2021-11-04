@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <p>
   <a href="mailto:shigatsu970704@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shigatsu970704@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
@@ -38,13 +32,7 @@ I'm putting together my potfolio to become a frontend developer these days
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
 </p>
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShigatsuEl&layout=compact&exclude_repo=tsuber-eats-frontend,shigatsubnb-clone"/>
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=ShigatsuEl&show_icons=true&theme=radical"/>
-    </td>
-  </tr>
-</table>
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShigatsuEl&layout=compact&exclude_repo=tsuber-eats-frontend,shigatsubnb-clone"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=ShigatsuEl&show_icons=true&theme=radical"/>
+<div>
