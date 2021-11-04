@@ -2,9 +2,7 @@
   <a href="mailto:shigatsu970704@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shigatsu970704@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-### Hi there 👋
-
-My name is Minchan Lee and I'm using the nickname ShigatsuEl
+### Hi there 👋 My name is Minchan Lee and I'm using the nickname ShigatsuEl
 
 - ✅ I like to learn new things.
 - ✅ I enjoy learning what I don't know
