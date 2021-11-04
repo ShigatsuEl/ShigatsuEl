@@ -32,7 +32,7 @@ I'm putting together my potfolio to become a frontend developer these days
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
 </p>
 
-<div>
+<div style="display: flex;">
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShigatsuEl&layout=compact&exclude_repo=tsuber-eats-frontend,shigatsubnb-clone"/>
     <img align=top src="https://github-readme-stats.vercel.app/api?username=ShigatsuEl&show_icons=true&theme=radical"/>
 <div>
