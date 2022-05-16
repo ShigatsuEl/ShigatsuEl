@@ -1,12 +1,10 @@
-### Hi there 👋 My name is Minchan Lee and I'm using the nickname ShigatsuEl
+### Hi there 👋 My name is Minchan Lee
 
-![shigatsu970704@gmail.com](https://img.shields.io/badge/shigatsu970704@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)
+![minzzang144@gmail.com](https://img.shields.io/badge/minzzang144@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)
 
-- ✅ I like to learn new things.
-- ✅ I enjoy learning what I don't know
-- ✅ I want to touching fun and emotion to people with my projects
-- ✅ I want to be a developer who helps people
-- 🙌 I'm putting together my potfolio to become a frontend developer these days
+- ✨ 새로운 것을 배우기 좋아하며 내가 몰랐던 것을 발견하는 스릴을 즐깁니다
+- 🎉 내가 만든 서비스가 이용하는 사람들에게 재미를 부여할 수 있기를 바랍니다
+- 🎁 앞으로 만들어낼 서비스가 사람들에게 조그마한 도움이라도 될 수 있도록 노력합니다
 
 ### Language and Tools
 
